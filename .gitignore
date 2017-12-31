@@ -27,3 +27,10 @@ META-INF
 /.idea
 /out
 *.iml
+
+# Eclipse
+.classpath
+.metadata
+.project
+.settings/
+bin/
